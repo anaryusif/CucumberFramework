@@ -1,0 +1,10 @@
+com\orangehrmpages\LogInpage.class
+com\orangehrmpages\HomePage.class
+com\syntex\utils\Constants.class
+com\syntex\utils\BaseClass.class
+com\rubex\runners\runner.class
+com\rubex\steps\AddEmployee.class
+com\rubex\steps\Hooks.class
+com\syntex\utils\CommonMethods.class
+com\orangehrmpages\addEmpl.class
+com\syntex\utils\ConfigsReader.class

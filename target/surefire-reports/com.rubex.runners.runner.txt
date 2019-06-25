@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.rubex.runners.runner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.116 s <<< FAILURE! - in com.rubex.runners.runner
+EMPTY_NAME(Add Employee)  Time elapsed: 13.63 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Adam Yusifov]> but was:<[Personal Details]>
+
